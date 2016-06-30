@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="_20131011110029ConnectionString-Web.config Connection String" description="_20131011110029ConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=valera;Initial Catalog=20131011110029;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="c:\\users\\20131011110029\\documents\\visual\ studio\ 2015\\Projects\\LojaRest\\LojaRest\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='_20131011110029ConnectionString']/@connectionString" />
+  </parameter>
+</parameters>
